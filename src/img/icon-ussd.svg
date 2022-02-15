@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="30" viewBox="0 0 56 30">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g transform="translate(-347 -4563) translate(348 4564)">
+                <rect width="54" height="26" fill="#FFF" stroke="#003C58" stroke-width="1.2" rx="3"/>
+                <text fill="#003C58" font-family="CeraPro-Medium, Cera Pro" font-size="14" font-weight="400">
+                    <tspan x="16" y="17">123#</tspan>
+                </text>
+                <text fill="#003C58" font-family="CeraPro-Regular, Cera Pro" font-size="22">
+                    <tspan x="6" y="25">*</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
